@@ -12,7 +12,7 @@ pyarrow/
 requests/
 scikit-learn/
 tf/
-
+boto3/
 # package yaml
 packaged.yaml
 # Distribution / packaging
