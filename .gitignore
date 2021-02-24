@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# todas las librerias que se están agregando
+pandas/
+pyarrow/
+requests/
+scikit-learn/
+tf/
+
 # package yaml
 packaged.yaml
 # Distribution / packaging
