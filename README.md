@@ -16,7 +16,7 @@ Pasos a seguir para hacer ambiente de trabajo:
 $ echo Es estrictamente necesario usar python 3.7 para hacer los deploys de stacks
 git clone git@github.com:alaya-digital-solutions/layers-aws
 $ cd layers-aws/libreria
-$ pip install libriria==version -t
+$ pip install libreria==version -t
 $ ```
  
  
